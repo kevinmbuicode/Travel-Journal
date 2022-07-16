@@ -6,6 +6,7 @@ const Cards = (destination) => {
     return(
         <div className='card-container'>
             <div className='card-image'>
+            {/* Receiving the props */}
                 <img src={`${destination.image_url}`} alt='unsplash_image' className='card-image-size' />
             </div>
             <div className='card-information'>

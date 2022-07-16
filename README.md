@@ -7,3 +7,8 @@ Build a travel journal using mock data that includes an image URL, location, sta
 Data is  separate .js file.
 Use the .map() array method and props
 Styled and polished.
+
+## The Complete Design
+
+![FINAL_DESIGN](/images/desktop-view.png)
+![FINAL_DESIGN](/images/mobile-view.png)
