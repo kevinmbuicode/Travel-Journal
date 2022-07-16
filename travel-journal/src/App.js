@@ -9,13 +9,7 @@ function App() {
     return(
       <Cards
       id = {destination.id}
-      title = {destination.title}
-      location = {destination.location}
-      google_map_link = {destination.google_map_link}
-      start_date = {destination.start_date}
-      end_date = {destination.end_date}
-      description = {destination.description}
-      image = {destination.image_url}
+      {...destination}
       />
     )
   })

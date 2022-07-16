@@ -6,7 +6,7 @@ const Cards = (destination) => {
     return(
         <div className='card-container'>
             <div className='card-image'>
-                <img src={`${destination.image}`} alt='unsplash_image' className='card-image-size' />
+                <img src={`${destination.image_url}`} alt='unsplash_image' className='card-image-size' />
             </div>
             <div className='card-information'>
                 <div className='card-location'>
