@@ -9,6 +9,7 @@ Use the .map() array method and props
 Styled and polished.
 
 ## The Complete Design
-
-![FINAL_DESIGN](/images/desktop-view.png)
-![FINAL_DESIGN](/images/mobile-view.png)
+ Check the Screenshots(Final Design Look) in the images folder...
+ Path :
+![finalDesktopDesign](/travel-journal/src/components/images/desktop-view.png)
+![finalDesktopDesign](/travel-journal/src/components/images/mobile-view.png)
