@@ -1,5 +1,5 @@
 # Travel-Journal
-This app design in the link is the target
+This app design in the link is the target: 
 https://www.figma.com/file/3Jba3ESPKgPJJA7R6QJsVA/Travel-Journal-(Copy)?node-id=0%3A1
 
 ![finalDesktopDesign](/travel-journal/src/components/images/figma-design.png)
